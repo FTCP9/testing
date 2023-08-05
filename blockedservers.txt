@@ -3,9 +3,3 @@
 d42339c120bc10a393a0b1d2c6a2e0ed4dbdd61b : *.herowars.org
 8bf58811e6ebca16a01b842ff0c012db1171d7d6 : *.eulablows.host
 8789800277882d1989d384e7941b6ad3dadab430 : *.moredotsmoredots.xyz
-0abb6a82d2d842e29ac581c622a7b4cd8272cb51 : *.majnrik.cz
-0abb6a82d2d842e29ac581c622a7b4cd8272cb51 : *.majnrik.cz
-0abb6a82d2d842e29ac581c622a7b4cd8272cb51 : *.majnrik.cz
-0abb6a82d2d842e29ac581c622a7b4cd8272cb51 : *.majnrik.cz
-0abb6a82d2d842e29ac581c622a7b4cd8272cb51 : *.majnrik.cz
-0abb6a82d2d842e29ac581c622a7b4cd8272cb51 : *.majnrik.cz
